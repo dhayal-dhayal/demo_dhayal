@@ -9,6 +9,8 @@ class Employee:
 
 
 
+
+
     def display_employee_details(self):
         print(f"Employee Name: {self.name}")
         print(f"Employee ID: {self.id}")
