@@ -7,6 +7,10 @@ class Employee:
         self.id = emp_id
         self.salary = salary
 
+
+
+
+
     def display_employee_details(self):
         print(f"Employee Name: {self.name}")
         print(f"Employee ID: {self.id}")
