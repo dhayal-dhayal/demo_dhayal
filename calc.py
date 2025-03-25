@@ -26,6 +26,6 @@ if choice in ['1', '2','3']:
         print (add(num1,num2))
     elif choice == '2':
         print(subtract(num1,num2))
-    elif choice == '3':
+   git st
         print (division(num1, num2))
 
