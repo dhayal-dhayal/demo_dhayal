@@ -20,7 +20,7 @@ class Employee:
 employee_1 = Employee('navin', 101, 100)
 employee_2 = Employee('kevin', 102, 200)
 employee_3 = Employee(None,None,None)
-employee_3 = Employee(None,None,None)
+employee_4 = Employee(None,None,None)
 print(employee_1.company_name)
 print(employee_1.company_name)
 print(employee_1.company_name)
