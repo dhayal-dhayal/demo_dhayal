@@ -24,8 +24,5 @@ if choice in ['1', '2','3']:
     if choice == '1':
        # value = add(num1,num2)
         print (add(num1,num2))
-    elif choice == '2':
-        print(subtract(num1,num2))
-   git st
-        print (division(num1, num2))
+
 
