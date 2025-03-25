@@ -22,4 +22,6 @@ employee_2 = Employee('kevin', 102, 200)
 employee_3 = Employee(None,None,None)
 
 print(employee_1.company_name)
-
+print(employee_1.company_name)
+print(employee_1.company_name)
+print(employee_1.company_name)
