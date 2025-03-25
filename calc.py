@@ -29,9 +29,3 @@ if choice in ['1', '2','3']:
     elif choice == '3':
         print (division(num1, num2))
 
-else:
-    print("Invalid input!")
-    print("Invalid input!")
-    print("Invalid input!")
-    print("commit from ide to git!")
-    ##added march 11am
