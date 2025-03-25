@@ -31,5 +31,7 @@ if choice in ['1', '2','3']:
 
 else:
     print("Invalid input!")
-
+    print("Invalid input!")
+    print("Invalid input!")
+    print("Invalid input!")
     ##added march 11am
